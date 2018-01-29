@@ -1,0 +1,11 @@
+--2018-01-29 10:11:48--  https://mmbiz.qpic.cn/mmbiz_png/nfxUjuI2HXj75nLVG358NN7GLic11vXvBVgBlSmXUDdnHYicBAjpeebSZxlqic8j9APIjNzSXJdLtTicic4GpzJF15g/640?wx_fmt=png
+正在解析主机 mmbiz.qpic.cn (mmbiz.qpic.cn)... 122.228.72.165, 115.231.191.144, 122.228.72.163, ...
+正在连接 mmbiz.qpic.cn (mmbiz.qpic.cn)|122.228.72.165|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：58644 (57K) [image/jpeg]
+正在保存至: “640?wx_fmt=png”
+
+640?wx_fmt=png        0%[                    ]       0  --.-KB/s               640?wx_fmt=png      100%[===================>]  57.27K  --.-KB/s  用时 0.03s   
+
+2018-01-29 10:11:49 (2.22 MB/s) - 已保存 “640?wx_fmt=png” [58644/58644])
+
